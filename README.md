@@ -1,2 +1,3 @@
 # TicTacToe
-Jogo da velha
+Jogo da velha - 1 jogador (one player)
+
